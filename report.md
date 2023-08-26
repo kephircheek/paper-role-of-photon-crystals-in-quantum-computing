@@ -14,7 +14,7 @@
 и могут обрабатывать данные гораздо быстрее, 
 так как пропускная способность фотонной системы значительно больше, 
 чем у электронной. 
-Фотонные системы уже используются в специализированных устройствах (Optical Supercomputing 2008). 
+Фотонные системы уже используются в специализированных устройствах (Dolev 2012).
 Создание универсальных процессоров требует миниатюризации компонентов, 
 а также развития технологий создания интегральных схем на их основе. 
 
@@ -103,7 +103,7 @@ $$
 структурные возможности, ограниченные только человеческим воображением.
 В узлах решетки можно создать любую форму.
 
-Таким образом, фотонные кристаллы можно разделить на три класса: те, которые не имеют ФЗЗ или имеют псевдо ФЗЗ (Yablonovitch, 1989; Yablonovitch, 2001), то есть запрещенную "полосу" нулевой ширины, что означает, что запрещена только одна точная длина волны света;  с частичным ФЗЗ, как у природных опалов, когда свет ограничен только в некоторых направлениях, и с истинной ФЗЗ. 
+Таким образом, фотонные кристаллы можно разделить на три класса: те, которые не имеют ФЗЗ или имеют псевдо ФЗЗ (Yablonovitch 1989; Yablonovitch 2001), то есть запрещенную "полосу" нулевой ширины, что означает, что запрещена только одна точная длина волны света;  с частичным ФЗЗ, как у природных опалов, когда свет ограничен только в некоторых направлениях, и с истинной ФЗЗ. 
 
 <!-- 2003 / Semiconductor Nanocrystal / 7.2. PHOTONIC CRYSTALS -->
 Когда у них есть истинное ФЗЗ, они обеспечивают оптимальный контроль над фотонной плотностью состояний, определяемой как число фотонных мод на единицу частоты в единице объема. ФЗЗ можно определить как диапазон частот, в котором фотон не может существовать внутри кристалла. Другими словами, плотность состояний равна нулю для частот внутри зоны (рис. 3). 
@@ -158,13 +158,13 @@ $$
 Квантовые точки представляют собой физические объекты малого размера, проявляющие квантовые свойства. Наряду с известными квантовыми объектами (атомами, молекулами и др.) в последнее время большой интерес представляют квантовые точки, размер которых существенно превышает атомные размеры и составляет порядка 1-10 нм. К настоящему времени разработаны методы получения монодисперсных полупроводниковых квантовых точек (кремния, селенида кадмия, оксида цинка и др.), металлических квантовых точек (меди, золота, серебра и др.), а также магнитных квантовых точек, состоящих из магнитных соединений.
  
 <!-- 2007 / Englund / Controlling cavity reflectivity with a single quantum dot -->
-Некоторые предложения по созданию масштабируемых квантовых информационных сетей и квантовых вычислений основаны на исследованиях связи между оптическим резонатором и квантовыми точками (Imamoglu 1999), ионами (Monroe-2002), атомами (Duan 2004). 
+Некоторые предложения по созданию масштабируемых квантовых информационных сетей и квантовых вычислений основаны на исследованиях связи между оптическим резонатором и квантовыми точками (Imamoglu 1999), ионами (Monroe 2002), атомами (Duan 2004). 
 <!--  -->
 Такой подход позволяет хранить квантовые состояния, например на спинах электронов связанных через моду резонатора, а масштабировать платформу за счет оптических каналов между отдельными резонаторами. 
 
 Для реализации такого кубита нужна соответствующим образом настроенная диэлектрическая среда, в которой можно управлять спонтанным излучением включенного квантового объекта.
 <!-- 2004 / Lodahl / Controlling the dynamics of spontaneous emission from quantum dots by photonic crystals -->
-Фотонные кристаллы обеспечивают такую среду: они сильно изменяют флуктуации вакуума, ускоряют или замедляют спонтанное излучение света (Bykov 1975, Lambropoulos-2000), а также демонстрируют необычную статистику плотности фотонных состояний (John 1994). Экспериментально было показано (Lodahl 2004), что  спонтанное излучение, испускаемого экситонами, от полупроводниковых квантовых точек, встроенных в инверсные опаловые фотонные кристаллы, может контролироваться параметрами фотонного кристалла. Позднее было показано (Englund 2005) что результат справедлив и для единичных излучателей. 
+Фотонные кристаллы обеспечивают такую среду: они сильно изменяют флуктуации вакуума, ускоряют или замедляют спонтанное излучение света (Быков 1972; Lambropoulos 2000), а также демонстрируют необычную статистику плотности фотонных состояний (John 1994). Экспериментально было показано (Lodahl 2004), что  спонтанное излучение, испускаемого экситонами, от полупроводниковых квантовых точек, встроенных в инверсные опаловые фотонные кристаллы, может контролироваться параметрами фотонного кристалла. Позднее было показано (Englund 2005) что результат справедлив и для единичных излучателей. 
 
 Первые попытки (Yoshie 2004) продемонстрировать квантовую природу взаимодействия между резонатором мальнького объема и квантовой точки были не удачными. Полученные асциляции Рабби могли быть описаны полукласичекими методами. Оканчательно прояснить этот вопрос удалось тольк оВ 2007 году было подтверждено (Yoshie 2004; Hennessy 2007), что природа взаимодействия между резонатором мальнького объема и квантовой точки квантовая. 
 Тем не менее природа взаимодействия моды резонатора и квантовый точки  долгое время оставалась откыртой. и Позднее было доказано что взаимодейтсвие  (Yoshie 2004; Hennessy 2007) 
@@ -179,67 +179,66 @@ $$
 <!-- 2004 / Lodahl / Controlling the dynamics of spontaneous emission from quantum dots by photonic crystals -->
 Фотонные кристаллы обеспечивают такую среду: они сильно изменяют флуктуации вакуума, заставляя ускорять или замедлять распад излучаемого света (Bykov 1975, Lambropoulos-2000), показывать необычную статистику (John 1994), или полностью подавлять его в идеальном случае фотонного зазора (Yablonovitch-1987, Bykov-1971). Здесь мы исследуем спонтанное излучение от полупроводниковых квантовых точек, встроенных в инверсные опаловые фотонные кристаллы 16. Мы показываем, что спектральное распределение и зависящий от времени распад света, испускаемого экситонами, заключенными в квантовых точках, контролируются фотонным кристаллом. Модифицированное излучение наблюдается в широкой полосе частот в 10%, что на порядки больше, чем в резонансных оптических микроворонках17. В зависимости от частоты оптического излучения наблюдаются как подавленные, так и повышенные скорости распада, которые контролируются параметром решетки кристаллов. Наши экспериментальные результаты создают основу для динамического управления оптическими квантовыми системами в твердом состоянии18
 
-
-
-## Выводы
-Фотонные кристалл являются полезной площадкой для исследования квантовой электродинамики плотности ... 
-
-Тем не менее данная работа практически не освещает один из главных недостатков фотонных кристаллов --- сложность их изготовления. Моделирование таких кристаллов, а также предсказание существования и параметров фотонной запрещенной зоны является сложной вычислительной задачей. 
-
-
-<!-- 2003 / Semiconductor Nanocrystal / 7.3. PHOTONIC CRYSTALS -->
-Мы изучаем два подхода к объединению квантовых точек с трехмерными фотонными кристаллами. Первый, описанный в разделе 73.2, заключается в изготовлении фотонных кристаллов из самих квантовых точек. Второй, описанный в разделе 733, заключается в изготовлении квантовых точек и фотонных кристаллов по отдельности, а затем их объединении. В самом начале отметим, что наша работа в обеих областях еще продолжается. Соответственно, в этой главе будет указано, что было достигнуто и что еще предстоит сделать. Кроме того, заинтересованный читатель должен знать о других смежных работах, например, полупроводниковые наноструктуры были включены в двумерные фотонные кристаллы26,28, а флуоресцентные красители [56, 57] и редкоземельные ионы58 были встроены в трехмерные фотонные кристаллы.
-
-
 ## Cписок литературы
 
-- Photonic Crystals: Molding the Flow of Light. 2008
-- Optical Supercomputing. 2008
-- Semiconductor Nanocrystals: From Basic Principles to Applications. 2003
-
-- H. John Caulfield & Shlomi Dolev. Why future supercomputing requires optics.  Nature Photonics 4, 261–263 (2010)
-- Sajeev John and Tran Quang. Spontaneous emission near the edge of a photonic band gap. Phys. Rev. A 50(2), 1764 (1994)
-
-- Oliver Benson. Assembly of hybrid photonic architectures from nanophotonic constituents. Nature 480, 193–199 (2011)
-- Wim Bogaerts, Daniel Pérez, José Capmany, David A. B. Miller, Joyce Poon, Dirk Englund, Francesco Morichetti & Andrea Melloni. Programmable photonic circuits. Nature 586, 207–216 (2020)
-- Xu et al., Sci. Adv. 6, 5, eaay5853, (2020);
-
-- E. M. Purcell. Spontaneous emission probabilities at radio frequencies. Phys. Rev. 69, 681 (1946)
 - Быков В. П. Спонтанное излучение в периодической структуре. ЖЭТФ 62, 505 (1972).
 
-<!-- 2003 / Semiconductor Nanocrystal / 7.2. PHOTONIC CRYSTALS -->
-- T. F. Krauss, R. M. De La Rue, and S. Brand. Two-dimensional photonic-bandgap structures operating at near-infrared wavelengths. Nature 383, 699 (1996).
+- Shlomi Dolev, Tobias Haist,  Mihai Oltean. The Journal of Supercomputing 62, 617–619 (2012)  
 
-- C. J. M. Smith, H. Benisty, S. Olivier, M. Rattier, C. Weisbuch, T. F. Krauss, R. M. De La Rue, R.
-Houdre, and U. Oesterle. Low-loss channel waveguides with two-dimensional photonic crystal
-boundaries. Appl. Phys. Lett. 77, 2813 (2000).
+- Oliver Benson. Assembly of hybrid photonic architectures from nanophotonic constituents. Nature 480, 193–199 (2011)
+
+- Wim Bogaerts, Daniel Pérez, José Capmany, David A. B. Miller, Joyce Poon, Dirk Englund, Francesco Morichetti & Andrea Melloni. Programmable photonic circuits. Nature 586, 207–216 (2020)
+
+- H. John Caulfield & Shlomi Dolev. Why future supercomputing requires optics.  Nature Photonics 4, 261–263 (2010)
 
 - E. Chow, S. Y. Lin, S. G. Johnson, P. R. Villeneuve, J. D. Joannopoulos, J. R. Wendt, G. A. Vawter, W. Zubrzycki, H. Hou, and A. Alleman. Three-dimensional control of light in a two-dimensional photonic crystal slab. Nature 407, 983 (2000).
 
-- O. Painter, R. K. Lee, A. Scherer, A. Yariv, J. D. O'Brien, P. D. Dapkus, and I. Kim. Two-Dimensional Photonic Band-Gap Defect Mode Laser. Science 284, 1819 (1999).
+- Duan, L. M. & Kimble, H. J. Scalable photonic quantum computation through cavity-assisted interactions. Phys. Rev. Lett. 92, 127902 (2004).
 
-- S. Y. Lin, J. G. Fleming, D. L. Hetherington, B. K. Smith, R. Biswas, K. M. Ho, M. M. Sigalas, W.
-Zubrzycki, S. R. Kurtz, and J. Bur. A three-dimensional photonic crystal operating at infrared wavelengths. Nature 394, 251 (1998).
+- Dirk Englund et al. Controlling the Spontaneous Emission Rate of Single Quantum Dots in a Two-Dimensional Photonic Crystal. Phys. Rev. Lett. 95, 013904 (2005)
+
+- K. Hennessy et al. Quantum nature of a strongly coupled single quantum dot–cavity system. Nature 445, 896–899 (2007)
+
+- Imamoglu, A. et al. Quantum information processing using quantum dot spins and cavity QED. Phys. Rev. Lett. 83, 4204–4207 (1999).
+
+- Sajeev John and Tran Quang. Spontaneous emission near the edge of a photonic band gap. Phys. Rev. A 50(2), 1764 (1994)
+
+- Sajeev John, Strong Localization of Photons in Certain Disordered Dielectric Superlattices. Phys. Rev. Lett. 58, 2486 (1987)
+
+- T. F. Krauss, R. M. De La Rue, and S. Brand. Two-dimensional photonic-bandgap structures operating at near-infrared wavelengths. Nature 383, 699 (1996).
+  
+- V. Krutyanskiy et al. Entanglement of Trapped-Ion Qubits Separated by 230 Meters. Phys. Rev. Lett. 130, 050803 (2023)
+
+- P Lambropoulos et al. Fundamental quantum optics in structured reservoirs. Rep. Prog. Phys. 63, 455 (2000)
+
+- S. Y. Lin, J. G. Fleming, D. L. Hetherington, B. K. Smith, R. Biswas, K. M. Ho, M. M. Sigalas, W. Zubrzycki, S. R. Kurtz, and J. Bur. A three-dimensional photonic crystal operating at infrared wavelengths. Nature 394, 251 (1998).
+
+- Peter Lodahl et al. Controlling the dynamics of spontaneous emission from quantum dots by photonic crystals, Nature 430, 654–657 (2004)
+
+- C. Monroe. Quantum information processing with atoms and photons. Nature 416, 238–246 (2002)
 
 - S. Noda, K. Tomoda, N. Yamamoto, and A. Chutinan. Full Three-Dimensional Photonic Bandgap Crystals at Near-Infrared Wavelengths. Science 289, 604 (2000).
 
-<!-- 2001 / Yablonovitch / Photonic Crystals-Semiconductors of Light-->
-- Philip Russell. Photonic Crystal Fibers. Science 299, 358 (2003)
+- O. Painter, R. K. Lee, A. Scherer, A. Yariv, J. D. O'Brien, P. D. Dapkus, and I. Kim. Two-Dimensional Photonic Band-Gap Defect Mode Laser. Science 284, 1819 (1999).
 
+- E. M. Purcell. Spontaneous emission probabilities at radio frequencies. Phys. Rev. 69, 681 (1946)
 
-<!-- 2007 / Englund / Controlling cavity reflectivity with a single quantum dot -->
-4. Cirac, J. I., Zoller, P., Kimble, H. J. & Mabuchi, H. Quantum state transfer and entanglement distribution among distant nodes in a quantum network. Phys. Rev. Lett. 78, 3221–3224 (1997).
-5. Imamoglu, A. et al. Quantum information processing using quantum dot spins and cavity QED. Phys. Rev. Lett. 83, 4204–4207 (1999).
-6. Duan, L. M. & Kimble, H. J. Scalable photonic quantum computation through cavity-assisted interactions. Phys. Rev. Lett. 92, 127902 (2004).
-7. Childress, L., Taylor, J. M., Sorensen, A. S. & Lukin, M. D. Fault-tolerant quantum repeaters with minimal physical resources and implementations based on single- photon emitters. Phys. Rev. A 72, 052330 (2005).
-8. Waks, E. & Vucˇkovic ́, J. Dipole induced transparency in drop-filter cavity- waveguide systems. Phys. Rev. Lett. 96, 153601 (2006).
-9. Ladd, T. D., van Loock, P. K., Nemoto, K., Munro, W. J. & Yamamoto, Y. Hybrid quantum repeater based on dispersive CQED interactions between matter qubits and bright coherent light. N. J. Phys. 8, 184 (2006).
+- Philip Russell. Photonic Crystal Fibers. Science 299, 358 (2003) 
 
-### Электронные ресурсы: 
-- [Сергей Никитов - Фотонные кристаллы](https://youtu.be/ufppOGpi2gM)
-- [Фотонные кристаллы](https://youtu.be/pSasunL-PqY)
-- [Реферат на тему: Фотонный кристалл](https://wreferat.baza-referat.ru/%D0%A4%D0%BE%D1%82%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BB%D0%BB)
-- [Публикации Eli Yablonovitch на сайте Berkeley](https://www2.eecs.berkeley.edu/Pubs/Faculty/yablonovitch.html)
-- [Аккаунт Eli Yablonovitch на Google Schoolar](https://scholar.google.com/citations?hl=en&user=4wqIUjMAAAAJ&view_op=list_works)
-- [PHOTONIC COMPUTERS COULD SOLVE A CLASSIC PROBLEM THAT STUMPS YOUR LAPTOP — STUDY](https://www.inverse.com/innovation/photonic-computers-could-be-the-way-of-the-future-study-says)
-- [ADVANCED PHOTONIC INTEGRATED CIRCUITS](https://www.nature.com/collections/fcppkxtzqf)
+- C. J. M. Smith et al. Low-loss channel waveguides with two-dimensional photonic crystal boundaries. Appl. Phys. Lett. 77, 2813 (2000).
+
+- Xu et al. Sci. Adv. 6, 5, eaay5853, (2020);
+
+- Eli Yablonovitch. Inhibited Spontaneous Emission in Solid-State Physics and Electronics. Phys. Rev. Lett. 58, 2059 (1987)
+
+- E. Yablonovitch and T. J. Gmitter. Photonic band structure: The face-centered-cubic case.  Phys. Rev. Lett. 63, 1950 (1989)
+
+- E. Yablonovitch. Photonic Crystals: Semiconductors of Light. Scientific American 285(6), 47-51, 
+
+- T. Yoshie, A. Scherer, J. Hendrickson, G. Khitrova, H. M. Gibbs, G. Rupper, C. Ell, O. B. Shchekin & D. G. Deppe. Vacuum Rabi splitting with a single quantum dot in a photonic crystal nanocavity. Nature 432, 200–203 (2004)
+
+### Книги
+- Igor A. Sukhoivanov , Igor V. Guryev. Photonic Crystal: Physics and Practical Modeling. Springer Berlin, Heidelberg (2009)
+- John D. Joannopoulos, Steven G. Johnson, Joshua N. Winn, Robert D. Meade. Photonic Crystals: Molding the Flow of Light. Princeton University Press (2008)
+- Jean-Michel Lourtioz et al. Photonic Crystals: Towards Nanoscale Photonic Devices. Springer Berlin, Heidelberg (2008)
+- A. L. Efros et al. Semiconductor Nanocrystal: From Basic Principles to Applications. Springer Science & Business Media (2003)
